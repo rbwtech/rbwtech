@@ -1,3 +1,11 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Radipta!;Full+Stack+Developer;Co-Owner+Triatech.net&center=true&size=30">
+</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
+</p>
+
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
 
 ### 💫 About Me
@@ -20,3 +28,12 @@
 
 ---
 > "Turning crazy ideas into reality, one commit at a time" 🚀
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rbwtech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+---
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7D433&center=true&random=false&width=435&lines=Turning+crazy+ideas+into+reality;One+commit+at+a+time" alt="Typing SVG" />
+</div>
