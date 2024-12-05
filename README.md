@@ -1,6 +1,7 @@
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
 
 ### 💫 About Me
+- 💼 Co-Owner at [Triatech.net](https://triatech.net)
 - 🎓 Software Engineer with passion for web development
 - 💻 Love creating efficient and scalable applications
 - 🌱 Always learning new technologies
@@ -16,3 +17,6 @@
 
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
+
+---
+> "Turning crazy ideas into reality, one commit at a time" 🚀
