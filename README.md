@@ -1,26 +1,4 @@
-# 👋 Hi, I'm RBW Tech (Raden Bimasena Wildan)
-
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
-
-```javascript
-const rbwtech = {
-    code: ["JavaScript", "PHP", "Python", "Java"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "SASS"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MySQL", "MongoDB", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
-    },
-    currentFocus: "Building innovative web solutions and learning new technologies",
-};
-```
 
 ### 💫 About Me
 - 🎓 Software Engineer with passion for web development
@@ -39,11 +17,6 @@ const rbwtech = {
 ### 📊 GitHub Stats
 ![RBW Tech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=radical)
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
-
 ### 🎯 Current Focus
 - 🔭 Working on web development projects
 - 📚 Learning advanced React and Node.js concepts
@@ -51,4 +24,4 @@ const rbwtech = {
 - 📝 Writing technical blogs and documentation
 
 ---
-📫 Contact: your.email@example.com
+📫 Contact: radipta111@gmail.com
