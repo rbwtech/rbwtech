@@ -1,19 +1,5 @@
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
 
-```javascript
-const skills = {
-    frontend: {
-        html: "HTML5",
-        css: "CSS3",
-        javascript: "JavaScript"
-    },
-    backend: {
-        php: "PHP",
-        nodejs: "Node.js",
-        database: "MariaDB"
-    }
-};
-```
 ### 💫 About Me
 - 🎓 Software Engineer with passion for web development
 - 💻 Love creating efficient and scalable applications
