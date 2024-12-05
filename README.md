@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Radipta!;Full+Stack+Developer;Co-Owner+Triatech.net&center=true&size=30">
 </h1>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
@@ -26,6 +25,7 @@
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
 
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rbwtech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
