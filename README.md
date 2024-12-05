@@ -26,9 +26,6 @@
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
 
----
-> "Turning crazy ideas into reality, one commit at a time" 🚀
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rbwtech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
 </p>
