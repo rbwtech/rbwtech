@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
-
+---
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
 
 ### 💫 About Me
@@ -22,16 +22,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 
-### GitHub Stats
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
-
-## 📫 Connect & Contact
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rbwtech)
-  [![Website](https://img.shields.io/badge/-Triatech.net-000000?style=for-the-badge&logo=safari&logoColor=white)](https://triatech.net)
-  
-</div>
 
 ---
 <p align="center">
