@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;">
 </p>
----
+
 ## 🚀 Software Engineer | Full Stack Developer | Tech Enthusiast
 
 ### 💫 About Me
