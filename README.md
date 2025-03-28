@@ -29,7 +29,6 @@
 
 ### 📊 TryHackMe Stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/rbwtech.png" alt="Your Image Badge" />
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rbwtech&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
