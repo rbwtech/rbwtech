@@ -25,6 +25,9 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
+---
+
+### 📊 TryHackMe Stats
 <img src="https://tryhackme-badges.s3.amazonaws.com/rbwtech.png" alt="Your Image Badge" />
 ---
 
