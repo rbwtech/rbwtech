@@ -25,7 +25,7 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech&show_icons=true&theme=dark)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4222266" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/rbwtech.png" alt="Your Image Badge" />
 ---
 
 <p align="center">
