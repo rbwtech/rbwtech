@@ -30,9 +30,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 
-### GitHub Stats
-
-## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rbwtech\&show_icons=true\&theme=dark)
+## ![Followers](https://img.shields.io/github/followers/rbwtech?style=social)
 
 ### TryHackMe Stats
 
