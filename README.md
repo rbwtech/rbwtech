@@ -30,8 +30,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
 
-## ![Followers](https://img.shields.io/github/followers/rbwtech?style=social)
-
 ### TryHackMe Stats
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/rbwtech.png" alt="TryHackMe Badge" />
